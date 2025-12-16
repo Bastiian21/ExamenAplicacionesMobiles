@@ -1,8 +1,8 @@
-# Diario de Viaje App 🌍
+# Diario de Viaje App 
 
 Aplicación Android desarrollada en Kotlin utilizando **Jetpack Compose** para la gestión de viajes y actividades turísticas con geolocalización.
 
-## 📱 Características Principales
+##  Características Principales
 * **Gestión de Usuarios:** Registro e inicio de sesión seguro con persistencia de sesión.
 * **Privacidad de Datos:** Separación estricta de actividades por usuario (cada usuario ve solo sus propios registros).
 * **Geolocalización:** Integración con API de OpenStreetMap (Nominatim) para obtener direcciones automáticas basadas en coordenadas GPS.
@@ -11,7 +11,7 @@ Aplicación Android desarrollada en Kotlin utilizando **Jetpack Compose** para l
     * **Remota:** Sincronización con API REST mediante **Retrofit**.
 * **Búsqueda Inteligente:** Filtrado de actividades por título en tiempo real.
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 * **Lenguaje:** Kotlin
 * **UI:** Jetpack Compose (Material Design 3)
 * **Arquitectura:** MVVM (Model-View-ViewModel) con Repository Pattern.
@@ -19,11 +19,11 @@ Aplicación Android desarrollada en Kotlin utilizando **Jetpack Compose** para l
 * **Red:** Retrofit 2 & GSON.
 * **Inyección de Dependencias:** Manual (ViewModelFactory).
 
-## 🚀 Instalación
+##  Instalación
 1. Clonar el repositorio.
 2. Abrir en Android Studio Ladybug o superior.
 3. Sincronizar Gradle.
 4. Ejecutar en Emulador (API 30+) o Dispositivo físico.
 
-## 👥 Integrante
+##  Integrante
 * Bastián Troncoso
